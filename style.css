@@ -1,0 +1,188 @@
+@charset "UTF8";
+
+body{
+    margin: 0px;
+}
+.principal{
+    background-color: rgb(81, 96, 236);
+    padding: 5px;
+    overflow: auto;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#logo{
+    width: 60px;
+    float: left;
+    position: relative;
+    left: 40px;
+    top: 10px;
+
+}
+ul{
+    float: right;
+}
+.link{
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    text-decoration: none;
+    margin: 6px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 50px;
+    padding: 10px;
+    list-style: none;
+}
+#secundario{
+    background-color: rgb(43, 186, 236);
+    height: 50px;
+}
+h2{
+    float: left;
+    font-family: 'Lato', sans-serif;
+    font-weight: 200;
+    color: rgb(239, 239, 248);
+    position: relative;
+    left: 90px;
+    bottom: 16px;
+    font-size: 30px;
+}
+#pesquisa{
+    position: relative;
+    top: 10px;
+    left: 30em;
+    height: 30px;
+    width: 20em;
+    border-radius: 50px;
+    border-width: 1px;
+}
+#foto{
+    background-image: url(imagens/pexels-julia-m-cameron-4144923.jpg);
+    height: 450px;
+    background-repeat: no-repeat;
+   background-attachment: fixed ;
+   background-size: cover;
+}
+#formulario{
+    background-color: rgba(73, 71, 64,0.7);
+    display: inline-block;
+    position: relative;
+    top: 50px;
+    width: 200px;
+    
+}
+.espaço{
+    margin: 3px;
+    padding: 10px;
+}
+select{
+    width: 14.4em;
+}
+#for{
+    padding: 10px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+.partedois{
+    background-color:rgb(43, 186, 236) ;
+
+}
+#desconto{
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    font-family: 'Lato', sans-serif;
+    margin-left: 20px;
+    font-size: 25px;
+}
+.sobre{
+    background-color: rgb(72, 72, 240);
+    height:  20em;
+    border-style: solid;
+    border-radius: 50px;
+    border-width: 0.0px;
+}
+#texto{    
+    color: rgb(53, 53, 58);
+    width: 340px;
+    float: right;
+    position: relative;
+    right: 140px;
+    top: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+    
+}
+#matricula{
+    float: left;
+    position: relative;
+    top: 190px;
+    left: 50px;
+}
+.final{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border-color: white;
+    color: rgb(255, 254, 254);
+    text-decoration: none;
+    display: inline-block;
+    list-style: none;
+    border-style: solid;
+    border-width: 1px;
+    padding: 15px;
+    margin: 5px;
+    border-radius: 50px;
+    background-color: rgb(66, 166, 212);
+    
+}
+.final:hover{
+ background-color: rgb(245, 250, 246);
+ color: rgb(22, 18, 245);
+}
+.final:hover{
+    background-color: rgb(245, 250, 246);
+    color: rgb(22, 18, 245);
+}
+#conclusao{
+    display: inline-block;
+    font-family: 'Lato', sans-serif;
+    color: white;
+    position: relative;
+    font-size: 50px;
+    right: 8em;
+    top: 0.8em;
+}
+#enviar{
+    width: 14.3em;
+    margin: 5px;
+    background-color: rgb(62, 146, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    border-width: 1px;
+    padding: 8px;
+    color: white;
+}
+.end{
+    background-color: white;
+    height: 80px;
+    width: 90%;
+}
+.krom{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    position: relative;
+    left: 13px;
+    top: 40px;
+}
+#icons{
+    float: right;
+    position: relative;
+    left: 6em;
+}
+ .foto{
+     margin: 5px; 
+}
+ .link:hover{
+ background-color: rgb(245, 250, 246);
+ color: rgb(22, 18, 245);   }
+
+
